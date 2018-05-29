@@ -1,0 +1,4 @@
+常规测试  
+ScanTest:1 
+文件名:left_right_image QR Code_40mil.png 
+内容:147140986521345670

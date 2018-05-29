@@ -1,0 +1,4 @@
+功能测试  
+ScanTest:1 
+文件名:彩色条码 (6).png
+内容:http://www.landicorp.com

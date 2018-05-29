@@ -1,0 +1,12 @@
+常规测试  
+ScanTest:1 
+文件名:SJCS_BCTC_QR40_1920x1080.jpg
+内容:https://d.alipay.com/i/index.htm?b=RECEIVE_AC&u=e6gS/Po96h8+vcYtOrSNdNAE9AGtOOU2MtDJP0jWN5c=    
+码制类型:QR Code         
+版本:40 
+容错:L
+精度:5mil               
+数据:https://d.alipay.com/i/index.htm?b=RECEIVE_AC&u=e6gS/Po96h8+vcYtOrSNdNAE9AGtOOU2MtDJP0jWN5c=
+字符集:Byte
+前景色:
+背景色:

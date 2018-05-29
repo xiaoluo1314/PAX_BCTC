@@ -1,0 +1,4 @@
+功能测试  
+ScanTest:1 
+文件名:污损案例 (4).jpg
+内容:LANDICORPABCDEFGHIJKLMNOPQRSTUVWXYZ

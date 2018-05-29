@@ -1,0 +1,4 @@
+功能测试  
+ScanTest:1 
+文件名:Mastcard_MCQR-TC2_L.jpeg
+内容:[[TC2]]

@@ -1,0 +1,4 @@
+常规测试 
+ScanTest:1 
+文件名:087 mAXICode_1920x1080.png 
+内容:01B535
